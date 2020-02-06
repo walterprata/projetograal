@@ -8,3 +8,4 @@ INSERT INTO integrante (nome) values ('Walter Prata');
 INSERT INTO integrante (nome) values ('Gled Rodrigues');
 INSERT INTO integrante (nome) values ('Rick Red');
 INSERT INTO integrante (nome) values ('Val Cunha');
+
